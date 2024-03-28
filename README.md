@@ -4,3 +4,8 @@
 ## 활용 기술
 Python <br/>
 Pandas <br/>
+
+## 코드 시연 및 해설
+```
+BigData_Final.ipynb
+```
